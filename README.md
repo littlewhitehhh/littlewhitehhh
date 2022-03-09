@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <!-- git status -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlewhitehhh&show_icons=true&theme=radical&count_private=true&hide=prs,contribs&show_icons=true)    
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlewhitehhh&show_icons=true&theme=radical&count_private=true&hide=prs,contribs&show_icons=true)     -->
 <!-- ![1oid's GitHub stats](https://github-readme-stats.vercel.app/api?username=1oid&count_private=true&hide=prs,contribs&show_icons=true) -->
 <!-- git languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlewhitehhh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
