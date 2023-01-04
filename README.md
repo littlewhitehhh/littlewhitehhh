@@ -4,7 +4,7 @@ HELLO! 这里是aky~~~</br>
 初级前端小白一枚，努力奋斗中~~~ </br>
 一直保持学习，保持成长，绝不摆烂~~~</br>
 最最最重要的是记得开心哟！！！ </br>
-掘金：[绝不摆烂aky](https://juejin.cn/user/985633474747288)
+掘金：[摆烂小子aky](https://juejin.cn/user/985633474747288)
 
 <!--
 **littlewhitehhh/littlewhitehhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
